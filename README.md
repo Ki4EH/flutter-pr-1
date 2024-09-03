@@ -1,16 +1,17 @@
-# pr1
+# Практика 1
 
-Flutter project 1
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Установка
+1. Скачал архив Flutter SDK
+![img.png](img.png)
+2. Перекинул папку на диск C:\ и обновил PATH
+![img_1.png](img_1.png)
+3. Проверил корректность установки
+![img_2.png](img_2.png)
+4. Поставил Android Studio
+![img_3.png](img_3.png)
+5. Создал новый пустой проект
+![img_4.png](img_4.png)
+6. Изменил main.dart
+![img_5.png](img_5.png)
+7. Запустил эмулятор
+![img_6.png](img_6.png)
